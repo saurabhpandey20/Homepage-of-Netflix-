@@ -1,5 +1,9 @@
-# Homepage-of-Netflix-
+# Homepage-of-Netflix
+
 Creating portfolio using 
+
 HTML
+
 CSS
+
 JAVASCRIPT
